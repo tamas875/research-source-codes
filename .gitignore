@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+
+# Data related files
+data_location*
+
+# Tables and figures (published data)
+
+# ApoB48 and late kidney graft failure
+ApoB48 and late kidney graft failure/figures/
+ApoB48 and late kidney graft failure/tables/
